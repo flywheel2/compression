@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "fw2\\compression\\": ""
+            "ickx\\fw2\\compression\\": ""
         }
     },
     "extra": {
